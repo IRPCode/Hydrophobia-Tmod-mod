@@ -1,0 +1,30 @@
+Items: {
+	TestSword: {
+		DisplayName: Test Sword
+		Tooltip: ""
+	}
+}
+
+Projectiles.TestSwordProjectile.DisplayName: Test Sword Projectile
+
+Buffs: {
+	Hydrophobic: {
+		DisplayName: Hydrophobic
+		Description: Mods.TestMod.Buffs.Hydrophobic.Description
+	}
+
+	Drenched: {
+		DisplayName: Drenched
+		Description: Mods.TestMod.Buffs.Drenched.Description
+	}
+
+	Soaked: {
+		DisplayName: Soaked
+		Description: Mods.TestMod.Buffs.Soaked.Description
+	}
+
+	Soggy: {
+		DisplayName: Soggy
+		Description: Mods.TestMod.Buffs.Soggy.Description
+	}
+}
